@@ -25,6 +25,6 @@ html, body {
     border: 2px solid black;
     border-radius: 5px;
 }
-.table-wrapper-scroll-y .my-custom-scrollbar{
+.table-wrapper-scroll-y{
   float: right;
 }
